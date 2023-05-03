@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1612537839 source:c:\users\udara gamage\documents\c projects\examresultmangementsystemudak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1613231812 source:c:\users\udara gamage\desktop\assignment3-bgaudara6037ps2021034\examresultmangementsystemudak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1613235414 source:d:\masters\msc comprogramming\assignment3-bgaudara6037ps2021034\examresultmangementsystemudak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
